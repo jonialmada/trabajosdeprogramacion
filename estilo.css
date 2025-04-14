@@ -14,3 +14,6 @@ body{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
 .foto{text-align:center;}
 /*comentario*/
 body{font-family:'Barriecito'}
+section iframe {
+    width: 100%; height: 100%; min-height: 600px;
+}

@@ -1,16 +1,17 @@
-.caja-roja{background-color: aqua;color:blueviolet}
-#unico{background-color: chocolate;color: darksalmon;}
+.caja-roja{background-color: gold;color:#6d545d}
+#unico{background-color:greenyellow;color:black;}
 p{color: blue; font-size: 30px;text-transform: uppercase;}
-h1{color:chartreuse;background-color:blueviolet;}
+h1{color:#040F0F;background-color:blueviolet;}
 h2{color:red;}
 h4{color:gold;}
 ul{color:darkred;}
 li{color:rgb(50, 204, 140);}
 nav ul li a{color:black;font-weight:bolder;}
-header{background-color:darkolivegreen;}
+header{background-color:#248232;}
 p a{text-decoration:line;color:deeppink}
-footer p{text-align: center;background-color: green;}
+footer p{text-align: center;background-color:#2BA84A;}
 body{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+body{background-color:#57CC99;}
 .foto{text-align:center;}
 /*comentario*/
 body{font-family:'Barriecito'}
